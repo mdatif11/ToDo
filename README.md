@@ -1,4 +1,4 @@
-# React ToDo App
+#ToDo App
 
 This is a simple ToDo application built using React. It allows users to add, delete, and manage their tasks. The application utilizes local storage to persist tasks even after a page refresh.
 
